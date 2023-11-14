@@ -5,6 +5,8 @@ LendingClub is a US peer-to-peer lending company, headquartered in San Francisco
 
 This case study covers the entire machine learning pipeline in an attempt to produce useful models with Deep Neural Networks (DNNs) that can be used in the loan industry. The study focuses on minimizing financial risk for the lending company. By conducting an in-depth Exploratory Data Analysis (EDA), we examine the relationships between variables. In the preprocessing stage, we transform the data and perform feature engineering to enhance our model predictions. Following this, we create a model using DNNs.
 
+To what the preview of the code please visit: https://www.kaggle.com/code/albertofuentesa/loan-default-prediction-using-ann-s
+
 ## The Dataset
 
 This notebook uses a subset of the LendingClub DataSet obtained from Kaggle: https://www.kaggle.com/wordsforthewise/lending-club
